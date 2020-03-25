@@ -7,4 +7,6 @@ Target 3 Loops
 Target 4 Function (all)
 Target 5 Array 
          ->searching
-         ->Matrices 
+         ->Matrices
+         ->Sorting
+         ->Traverse 
