@@ -7,6 +7,19 @@ Target 3 Loops
 Target 4 Function (all)
 Target 5 Array 
          ->searching
+                  Linear Search.
+                  Binary Search.
+                  Jump Search.
+                  Interpolation Search.
+                  Exponential Search.
+                  Sublist Search (Search a linked list in another list)
+                  Fibonacci Search.
          ->Matrices
+                  Bubble Sort. 
+                  Insertion Sort.
+                  Selection Sort. 
+                  Quick Sort.
+                  Merge Sort. 
+                  Heap Sort
          ->Sorting
          ->Traverse 
