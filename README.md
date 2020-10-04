@@ -10,3 +10,5 @@ Target 5 Array
          ->Matrices
          ->Sorting
          ->Traverse 
+Target 6 Pointer
+Target 7 File Handling
